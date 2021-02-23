@@ -6,7 +6,7 @@ Meu nome é Gabriel Maciel, tenho 20 anos, conheci programação em 2011, e torn
 <br/> :computer: &nbsp; Atualmente trabalho como Desenvolvedor PHP & Laravel para duas empresas.
 <br/> :seat: &nbsp; Gosto de embarcar sempre em novos projetos e desafios.
 <br/> :purple_heart: &nbsp; Focando meu aprendizado em algumas tecnologias Front-End, como React e Next.js
-<br/> :coffee: &nbsp; A minha maior paixão é café com pão de queijo, e resolver um bug na sexta-feira minutos antes de sextar
+<br/> :coffee: &nbsp; As minhas maiores paixões são café com pão de queijo, e resolver um bug na sexta-feira minutos antes de sextar
 
 <br/> :rocket: &nbsp; O aprendizado é contínuo e sempre haverá um próximo nível
 
