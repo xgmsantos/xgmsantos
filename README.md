@@ -10,5 +10,5 @@ Meu nome é Gabriel Maciel, tenho 20 anos, conheci programação em 2011, e torn
 
 <br/> :rocket: O aprendizado é continuo e sempre haverá um próximo nível
 
-LinkedIn: https://www.linkedin.com/in/ggmsantos/
-Instagram: https://www.instagram.com/https.santos/
+<br/> LinkedIn: https://www.linkedin.com/in/ggmsantos/
+<br/> Instagram: https://www.instagram.com/https.santos/
